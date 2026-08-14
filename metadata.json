@@ -1,0 +1,6 @@
+{
+  "name": "Forest Guardian",
+  "description": "AI-based forest monitoring, patrol tracking, incident management, and SOS emergency response system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
